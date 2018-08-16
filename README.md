@@ -3,23 +3,22 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 
 
 
-
 ## TYPOGRAPHY
-
-headline
-title
-subheader
-menu
-body_1
-body_2
-caption
+- headline
+- title
+- subheader
+- menu
+- body_1
+- body_2
+- caption
 
 ## COLORS
+
 
 ## ASSET
 
 ## COMPONENT
-Button
-Text Fields
-List
-dialog
+### Button
+### Text Fields
+### List
+### dialog
