@@ -44,9 +44,9 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 - buttonSecondary2
 - textButton1
 - textButton2
-- <font color="#ffdd00">_buttonPrimaryIcon_</font>
-- <span style="color:blue">buttonSecondaryIcon1</span>
-- <span style="color:blue">buttonSecondaryIcon2</span>
+- _buttonPrimaryIcon_
+- _buttonSecondaryIcon1_
+- _buttonSecondaryIcon2_
 - textButton1
 - textButton2
 - buttonDisabled
@@ -55,9 +55,9 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 - editTextPrimary
 - editTextSecondary1
 - editTextSecondary2
-- <span style="color:blue">editTextPrimaryIcon</span>
-- <span style="color:blue">editTextSecondaryIcon1</span>
-- <span style="color:blue">editTextSecondaryIcon2</span>
+- _editTextPrimaryIcon_
+- _editTextSecondaryIcon1_
+- _editTextSecondaryIcon2_
 - editTextDisabled
 
 ### List
