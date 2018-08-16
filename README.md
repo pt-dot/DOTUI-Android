@@ -44,7 +44,7 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 - buttonSecondary2
 - textButton1
 - textButton2
-- <font color="blue">_buttonPrimaryIcon_</font>
+- <font color="#ffdd00">_buttonPrimaryIcon_</font>
 - <span style="color:blue">buttonSecondaryIcon1</span>
 - <span style="color:blue">buttonSecondaryIcon2</span>
 - textButton1
