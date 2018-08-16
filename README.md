@@ -28,8 +28,8 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 
 ## ASSET
 ### Icon
-- ic_home
-- ic_notification
+- ic_action_blabla
+- ic_action_blabla
 
 
 ## COMPONENT
