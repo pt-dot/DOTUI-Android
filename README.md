@@ -28,6 +28,11 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 
 ## ASSET
 ### Icon
+- ic_home
+- ic_notification
+_ ic_blabla
+
+### Icon Toolbar
 - ic_action_blabla
 - ic_action_blabla
 
