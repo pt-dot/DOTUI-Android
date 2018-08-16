@@ -61,6 +61,10 @@ Default UI element used in some project in DOT Indonesia. Collaborated with a de
 - itemListSecondary2
 
 ### dialog
+- dialogAlert
+- dialogInfo
+- dialogConfirmation
+
 
 
 
